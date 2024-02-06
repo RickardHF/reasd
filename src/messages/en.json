@@ -1,0 +1,20 @@
+{
+    "home": {
+        "title": "Home",
+        "welcome": "Welcome to the home page!"
+    },
+    "about": {
+        "title": "About",
+        "description": "This is the about page!"
+    },
+    "header": {
+        "home": "Home",
+        "about": "About"
+    },
+    "metadata": {
+        "home-title": "Home - Example Page",
+        "home-description": "This is a description of the home page.",
+        "about-title": "About - Example Page",
+        "about-description": "This is a description of the about page."
+    }
+}

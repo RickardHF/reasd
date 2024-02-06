@@ -1,0 +1,20 @@
+{
+    "home": {
+        "title": "Inicio",
+        "welcome": "¡Bienvenido a la pagina principal!"
+    },
+    "about": {
+        "title": "Sobre",
+        "description": "¡Esta es la página acerca de!"
+    },
+    "header": {
+        "home": "Inicio",
+        "about": "Sobre"
+    },
+    "metadata": {
+        "home-title": "Inicio - Página de ejemplo",
+        "home-description": "Esta es una descripción de la página de inicio.",
+        "about-title": "Acerca de - Página de ejemplo",
+        "about-description": "Esta es una descripción de la página acerca de."
+    }
+}
